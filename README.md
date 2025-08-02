@@ -1,32 +1,32 @@
-# 🎟️ Sinema Bilet Otomasyonu
+# 🎟️ Cinema Ticket Automation
 
-Bu proje, sinema salonları için kullanıcı dostu bir bilet rezervasyon ve satış sistemi geliştirmeyi amaçlamaktadır. Java ile NetBeans ortamında oluşturulmuş, arka planda temel veritabanı işlemleri ve kullanıcı etkileşimi barındırmaktadır.
+This project aims to develop a user-friendly ticket reservation and sales system for movie theaters.  
+It was built with Java using the NetBeans IDE and includes basic database operations and user interaction.
 
-## 🚀 Özellikler
+## 🚀 Features
 
-- Film listeleme ve seans gösterimi
-- Koltuk seçimi ve rezervasyon
-- Satış işlemleri ve ödeme takibi 
-- Kullanıcı dostu grafik arayüz (GUI)
+- Movie listing and session display  
+- Seat selection and reservation  
+- Ticket sales and payment tracking  
+- User-friendly graphical interface (GUI)
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠️ Technologies Used
 
-- Java
-- NetBeans IDE
-- Swing (GUI)
-- Veritabanı bağlantısı için JDBC
+- Java  
+- NetBeans IDE  
+- Swing (GUI)  
+- JDBC for database connection
 
-## 📂 Projeyi Çalıştırmak
+## 📂 How to Run the Project
 
-1. Projeyi NetBeans ile açın
-2. Veritabanı bağlantısını yapılandırın
-3. `Main.java` dosyasından projeyi başlatın
+1. Open the project using NetBeans  
+2. Configure the database connection  
+3. Run the project starting from `Main.java`
 
+## 🧑‍💻 Developer
 
+**Bengü – Software Engineering Student**  
+🎓 Atatürk University
 
-## 🧑‍💻 Geliştirici
-
-**Bengü -  Software Engineering Student**  
-👨‍🎓 Atatürk University  
 
 
